@@ -1,1 +1,3 @@
-# this is for learning devops tools
+# maven-project
+
+Simple Maven Project
